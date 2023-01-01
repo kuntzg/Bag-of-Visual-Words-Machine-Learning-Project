@@ -1,8 +1,7 @@
 # EC503 Final Project
 Bag of Visual Words
+
 Egor Badich, Zhengtao Wang, Gabrielle Kuntz, Suyang Yan, Chujun Qi
-Department of Electrical and Computer Engineering
-Boston University
 
 
 **Abstract**
