@@ -1,6 +1,6 @@
 # EC503 Final Project
 ## Bag of Visual Words
-##### Egor Badich, Zhengtao Wang, Gabrielle Kuntz, Suyang Yan, Chujun Qi
+Egor Badich, Zhengtao Wang, Gabrielle Kuntz, Suyang Yan, Chujun Qi
 
 
 **Abstract**
